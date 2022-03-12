@@ -17,8 +17,9 @@
   },
   "homepage": "https://github.com/lolotrgeek/node-data-finder-mongo#readme",
   "dependencies": {
-    "@keyv/mongo": "^2.1.0",
-    "keyv": "^4.0.5"
+    "keyv": "^4.0.5",
+    "keyv-mongodb": "^2.0.0",
+    "node-data-finder": "^0.0.15"
   },
   "devDependencies": {
     "express": "^4.17.2"
